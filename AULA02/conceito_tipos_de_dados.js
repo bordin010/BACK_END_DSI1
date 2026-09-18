@@ -43,3 +43,16 @@ console.log(menorDeIdade); // Exibir false
 let idade = 20;
 let podeDirigir = idade >= 18;
 console.log(podeDirigir);
+
+// TAMANHO DE UMA STRING
+
+let seuSistemaFoihackeado = "zerou!"
+console.log(seuSistemaFoihackeado.length);
+
+// LETRAS MAIÚSCULAS E MINÚSCULAS
+
+let regra = "não pode celular"
+console.log(regra.toUpperCase());
+
+let regra2 = "PODE CELULAR";
+console.log(regra.toLowerCase());
